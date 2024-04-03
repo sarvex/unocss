@@ -19,6 +19,6 @@
     "@unocss/reset": "link:../../packages/reset",
     "typescript": "^5.0.3",
     "unocss": "link:../../packages/unocss",
-    "vite": "4.2.1"
+    "vite": "4.5.3"
   }
 }
